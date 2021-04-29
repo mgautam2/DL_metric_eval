@@ -1,5 +1,5 @@
 
-const sigma = 50; // threshold
+const { sigma } = require('../constants');
 
 function createMP_to_GT(MPList, GTList) {
   let map = new Map();
@@ -42,7 +42,7 @@ function createGT_to_MP(GTList, MPList) {
   while(i < GTList.length) {
     const currGT = GTList[i]; // current Ground Truth
     const list = [];
-    console.log("--> MP ", currGT);
+    // console.log("--> MP ", currGT);
     
     while(j < MPList.length) {
       const currMP = MPList[j]; // current Model Prediction
@@ -50,10 +50,10 @@ function createGT_to_MP(GTList, MPList) {
     // Change conditions later  
       const startDiff = Math.abs(currMP.start - currGT.start);
       const endDiff = Math.abs(currMP.end - currGT.end);
-      console.log("--> GT " , j , " -> ", currMP);
+      // console.log("--> GT " , j , " -> ", currMP);
       
       if(currGT.end + sigma <  currMP.start) {
-        console.log("      ^^^Too much------------------^^^\n")
+        // console.log("      ^^^Too much------------------^^^\n")
         break;
       }
       else if(startDiff < sigma || endDiff < sigma) { // intervals boundary are similar
@@ -63,7 +63,7 @@ function createGT_to_MP(GTList, MPList) {
     }
     
     map.set(i, list);
-    console.log("Map is ",map.get(i), "\n");
+    // console.log("Map is ",map.get(i), "\n");
     i++;
   }
   return map;
