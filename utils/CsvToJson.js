@@ -1,13 +1,15 @@
 const csv = require('csv-parser');
 const { Parser } = require('json2csv');
 const fs = require('fs');
+const path = require('path');
 const event = require('./event');
+
 
 const FRAME_SIZE = 30;
 
 async function loadCSV(file) {
   let results = [];
-  const fd = fs.createReadStream(`./csv/${file}`);
+  const fd = fs.createReadStream(path.join(__dirname,`../csv/${file}`));
     
   await new Promise(function(resolve, reject) {
       fd.pipe(csv())
@@ -19,7 +21,6 @@ async function loadCSV(file) {
   return results;
 }
 
-
 convertJsonToCsv = (data) => {
   const rowData = Object.entries(data).map( entry => {
     return {frame: entry[0], action: entry[1].action, confd: entry[1].confd, location: entry[1].location };
@@ -29,7 +30,7 @@ convertJsonToCsv = (data) => {
   try {
     const parser = new Parser(opts);
     const csv = parser.parse(rowData);
-    fs.writeFileSync(`${__dirname}/csv/prediction.csv`, csv);
+    fs.writeFileSync(path.join(__dirname, '../csv/prediction.csv'), csv);
   } catch (err) {
       console.log(err)
       throw new Error(err);
@@ -83,13 +84,9 @@ function createMPList(MPCsv) {
   return results;
 }  
 
-  
-  
 module.exports = {
   loadCSV,
   convertJsonToCsv,
   createGTList,
   createMPList
 };
-
-
