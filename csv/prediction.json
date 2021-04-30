@@ -1,4 +1,4 @@
-{
+ {
         "30": {
             "action": "explore",
             "confd": 1.0,
@@ -16,18 +16,18 @@
         },
         "120": {
             "action": "explore",
-            "confd": 0.9999996423721313,
+            "confd": 1.0,
             "location": "None"
         },
         "150": {
             "action": "explore",
-            "confd": 0.999982476234436,
+            "confd": 1.0,
             "location": "None"
         },
         "180": {
-            "action": "explore",
-            "confd": 0.9999978542327881,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.5851996541023254,
+            "location": "right"
         },
         "210": {
             "action": "explore",
@@ -36,12 +36,12 @@
         },
         "240": {
             "action": "explore",
-            "confd": 0.999998927116394,
+            "confd": 1.0,
             "location": "None"
         },
         "270": {
             "action": "explore",
-            "confd": 0.9999998807907104,
+            "confd": 1.0,
             "location": "None"
         },
         "300": {
@@ -66,7 +66,7 @@
         },
         "420": {
             "action": "explore",
-            "confd": 0.9999949932098389,
+            "confd": 1.0,
             "location": "None"
         },
         "450": {
@@ -76,17 +76,17 @@
         },
         "480": {
             "action": "explore",
-            "confd": 0.9999991655349731,
+            "confd": 1.0,
             "location": "None"
         },
         "510": {
             "action": "explore",
-            "confd": 0.9815890789031982,
+            "confd": 1.0,
             "location": "None"
         },
         "540": {
             "action": "explore",
-            "confd": 0.9998899698257446,
+            "confd": 1.0,
             "location": "None"
         },
         "570": {
@@ -106,63 +106,63 @@
         },
         "660": {
             "action": "explore",
-            "confd": 0.9987688660621643,
+            "confd": 1.0,
             "location": "None"
         },
         "690": {
-            "action": "explore",
-            "confd": 0.9999977350234985,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9742903709411621,
+            "location": "left"
         },
         "720": {
-            "action": "explore",
-            "confd": 0.9999997615814209,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.805962860584259,
+            "location": "left"
         },
         "750": {
-            "action": "explore",
-            "confd": 0.9999998807907104,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9721578359603882,
+            "location": "left"
         },
         "780": {
             "action": "explore",
-            "confd": 0.9969469904899597,
+            "confd": 0.9999973773956299,
             "location": "None"
         },
         "810": {
-            "action": "investigate",
-            "confd": 0.7781618237495422,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "840": {
-            "action": "investigate",
-            "confd": 0.9692296385765076,
-            "location": "left"
+            "action": "explore",
+            "confd": 0.8321906328201294,
+            "location": "None"
         },
         "870": {
-            "action": "investigate",
-            "confd": 0.9569733142852783,
-            "location": "left"
+            "action": "explore",
+            "confd": 0.9792969822883606,
+            "location": "None"
         },
         "900": {
-            "action": "investigate",
-            "confd": 0.9629019498825073,
-            "location": "left"
+            "action": "explore",
+            "confd": 0.8351429104804993,
+            "location": "None"
         },
         "930": {
-            "action": "investigate",
-            "confd": 0.9571835398674011,
-            "location": "left"
+            "action": "explore",
+            "confd": 0.9999985694885254,
+            "location": "None"
         },
         "960": {
-            "action": "investigate",
-            "confd": 0.9708908796310425,
-            "location": "left"
+            "action": "explore",
+            "confd": 0.875141978263855,
+            "location": "None"
         },
         "990": {
-            "action": "investigate",
-            "confd": 0.9609473347663879,
-            "location": "left"
+            "action": "explore",
+            "confd": 0.9980371594429016,
+            "location": "None"
         },
         "1020": {
             "action": "explore",
@@ -196,7 +196,7 @@
         },
         "1200": {
             "action": "explore",
-            "confd": 1.0,
+            "confd": 0.9999986886978149,
             "location": "None"
         },
         "1230": {
@@ -206,7 +206,7 @@
         },
         "1260": {
             "action": "explore",
-            "confd": 1.0,
+            "confd": 0.9999998807907104,
             "location": "None"
         },
         "1290": {
@@ -216,7 +216,7 @@
         },
         "1320": {
             "action": "explore",
-            "confd": 0.998766303062439,
+            "confd": 1.0,
             "location": "None"
         },
         "1350": {
@@ -236,72 +236,72 @@
         },
         "1440": {
             "action": "explore",
-            "confd": 0.9999997615814209,
+            "confd": 1.0,
             "location": "None"
         },
         "1470": {
             "action": "explore",
-            "confd": 0.9999994039535522,
+            "confd": 1.0,
             "location": "None"
         },
         "1500": {
             "action": "explore",
-            "confd": 0.999998927116394,
+            "confd": 1.0,
             "location": "None"
         },
         "1530": {
             "action": "explore",
-            "confd": 0.999995231628418,
+            "confd": 1.0,
             "location": "None"
         },
         "1560": {
             "action": "explore",
-            "confd": 0.999998927116394,
+            "confd": 1.0,
             "location": "None"
         },
         "1590": {
             "action": "explore",
-            "confd": 0.999997615814209,
+            "confd": 0.9999998807907104,
             "location": "None"
         },
         "1620": {
             "action": "explore",
-            "confd": 0.9999996423721313,
+            "confd": 0.9999998807907104,
             "location": "None"
         },
         "1650": {
             "action": "explore",
-            "confd": 0.9999998807907104,
+            "confd": 1.0,
             "location": "None"
         },
         "1680": {
             "action": "explore",
-            "confd": 0.9999974966049194,
+            "confd": 0.9999996423721313,
             "location": "None"
         },
         "1710": {
             "action": "explore",
-            "confd": 0.9999984502792358,
+            "confd": 0.9999990463256836,
             "location": "None"
         },
         "1740": {
             "action": "explore",
-            "confd": 0.9998756647109985,
+            "confd": 0.999998927116394,
             "location": "None"
         },
         "1770": {
             "action": "explore",
-            "confd": 0.9999947547912598,
+            "confd": 0.9999991655349731,
             "location": "None"
         },
         "1800": {
             "action": "explore",
-            "confd": 1.0,
+            "confd": 0.9999994039535522,
             "location": "None"
         },
         "1830": {
             "action": "explore",
-            "confd": 1.0,
+            "confd": 0.9999998807907104,
             "location": "None"
         },
         "1860": {
@@ -311,77 +311,77 @@
         },
         "1890": {
             "action": "explore",
-            "confd": 0.9999998807907104,
+            "confd": 1.0,
             "location": "None"
         },
         "1920": {
             "action": "explore",
-            "confd": 0.9999997615814209,
+            "confd": 1.0,
             "location": "None"
         },
         "1950": {
             "action": "explore",
-            "confd": 1.0,
+            "confd": 0.9999998807907104,
             "location": "None"
         },
         "1980": {
             "action": "explore",
-            "confd": 1.0,
+            "confd": 0.9999998807907104,
             "location": "None"
         },
         "2010": {
             "action": "explore",
-            "confd": 1.0,
+            "confd": 0.9999998807907104,
             "location": "None"
         },
         "2040": {
             "action": "explore",
-            "confd": 1.0,
+            "confd": 0.9999984502792358,
             "location": "None"
         },
         "2070": {
             "action": "explore",
-            "confd": 1.0,
+            "confd": 0.9999914169311523,
             "location": "None"
         },
         "2100": {
             "action": "explore",
-            "confd": 0.9999929666519165,
+            "confd": 0.9999902248382568,
             "location": "None"
         },
         "2130": {
             "action": "explore",
-            "confd": 0.9999940395355225,
+            "confd": 0.999997615814209,
             "location": "None"
         },
         "2160": {
             "action": "explore",
-            "confd": 0.9999755620956421,
+            "confd": 1.0,
             "location": "None"
         },
         "2190": {
             "action": "explore",
-            "confd": 0.9998679161071777,
+            "confd": 1.0,
             "location": "None"
         },
         "2220": {
             "action": "explore",
-            "confd": 0.9999978542327881,
+            "confd": 1.0,
             "location": "None"
         },
         "2250": {
             "action": "explore",
-            "confd": 0.9999986886978149,
+            "confd": 1.0,
             "location": "None"
         },
         "2280": {
             "action": "explore",
-            "confd": 0.999998927116394,
+            "confd": 1.0,
             "location": "None"
         },
         "2310": {
             "action": "explore",
-            "confd": 1.0,
+            "confd": 0.9999998807907104,
             "location": "None"
         },
         "2340": {
@@ -391,7 +391,7 @@
         },
         "2370": {
             "action": "explore",
-            "confd": 0.9999998807907104,
+            "confd": 1.0,
             "location": "None"
         },
         "2400": {
@@ -411,77 +411,77 @@
         },
         "2490": {
             "action": "explore",
-            "confd": 0.9999991655349731,
+            "confd": 1.0,
             "location": "None"
         },
         "2520": {
             "action": "explore",
-            "confd": 0.9999997615814209,
+            "confd": 1.0,
             "location": "None"
         },
         "2550": {
             "action": "explore",
-            "confd": 0.9999992847442627,
+            "confd": 1.0,
             "location": "None"
         },
         "2580": {
             "action": "explore",
-            "confd": 0.9999997615814209,
+            "confd": 1.0,
             "location": "None"
         },
         "2610": {
             "action": "explore",
-            "confd": 0.9999996423721313,
+            "confd": 1.0,
             "location": "None"
         },
         "2640": {
             "action": "explore",
-            "confd": 0.9999998807907104,
+            "confd": 1.0,
             "location": "None"
         },
         "2670": {
             "action": "explore",
-            "confd": 0.9999997615814209,
+            "confd": 1.0,
             "location": "None"
         },
         "2700": {
             "action": "explore",
-            "confd": 0.9999997615814209,
+            "confd": 1.0,
             "location": "None"
         },
         "2730": {
             "action": "explore",
-            "confd": 0.9999997615814209,
+            "confd": 1.0,
             "location": "None"
         },
         "2760": {
             "action": "explore",
-            "confd": 0.9999997615814209,
+            "confd": 0.9999998807907104,
             "location": "None"
         },
         "2790": {
             "action": "explore",
-            "confd": 0.9999977350234985,
+            "confd": 1.0,
             "location": "None"
         },
         "2820": {
             "action": "explore",
-            "confd": 0.9999992847442627,
+            "confd": 1.0,
             "location": "None"
         },
         "2850": {
             "action": "explore",
-            "confd": 0.9999996423721313,
+            "confd": 1.0,
             "location": "None"
         },
         "2880": {
             "action": "explore",
-            "confd": 0.9999978542327881,
+            "confd": 1.0,
             "location": "None"
         },
         "2910": {
             "action": "explore",
-            "confd": 0.9999998807907104,
+            "confd": 1.0,
             "location": "None"
         },
         "2940": {
@@ -491,82 +491,82 @@
         },
         "2970": {
             "action": "explore",
-            "confd": 0.9999997615814209,
+            "confd": 1.0,
             "location": "None"
         },
         "3000": {
             "action": "explore",
-            "confd": 0.9999716281890869,
+            "confd": 1.0,
             "location": "None"
         },
         "3030": {
-            "action": "investigate",
-            "confd": 0.9723038673400879,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3060": {
-            "action": "investigate",
-            "confd": 0.9960280656814575,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3090": {
-            "action": "investigate",
-            "confd": 0.9915897250175476,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3120": {
-            "action": "investigate",
-            "confd": 0.9924978613853455,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3150": {
-            "action": "investigate",
-            "confd": 0.5603283047676086,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3180": {
-            "action": "investigate",
-            "confd": 0.9905756711959839,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3210": {
-            "action": "investigate",
-            "confd": 0.9965634942054749,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3240": {
-            "action": "investigate",
-            "confd": 0.9979368448257446,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3270": {
-            "action": "investigate",
-            "confd": 0.9989619255065918,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3300": {
-            "action": "investigate",
-            "confd": 0.998725950717926,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3330": {
-            "action": "investigate",
-            "confd": 0.9987941980361938,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3360": {
-            "action": "investigate",
-            "confd": 0.999174177646637,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3390": {
-            "action": "investigate",
-            "confd": 0.9995473027229309,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3420": {
             "action": "explore",
-            "confd": 0.9999517202377319,
+            "confd": 1.0,
             "location": "None"
         },
         "3450": {
@@ -590,89 +590,89 @@
             "location": "None"
         },
         "3570": {
-            "action": "investigate",
-            "confd": 0.933552622795105,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3600": {
-            "action": "investigate",
-            "confd": 0.998870313167572,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3630": {
-            "action": "investigate",
-            "confd": 0.9884491562843323,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3660": {
-            "action": "investigate",
-            "confd": 0.9794692993164062,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3690": {
-            "action": "investigate",
-            "confd": 0.9866290092468262,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3720": {
-            "action": "investigate",
-            "confd": 0.9905857443809509,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3750": {
-            "action": "investigate",
-            "confd": 0.9945390820503235,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3780": {
-            "action": "investigate",
-            "confd": 0.9966651797294617,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3810": {
-            "action": "investigate",
-            "confd": 0.990673840045929,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3840": {
-            "action": "investigate",
-            "confd": 0.999041736125946,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3870": {
-            "action": "investigate",
-            "confd": 0.9949460625648499,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3900": {
-            "action": "investigate",
-            "confd": 0.9892354607582092,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3930": {
-            "action": "investigate",
-            "confd": 0.9990249872207642,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3960": {
-            "action": "investigate",
-            "confd": 0.9975504279136658,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "3990": {
-            "action": "investigate",
-            "confd": 0.9970837235450745,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "4020": {
             "action": "explore",
-            "confd": 0.9999873638153076,
+            "confd": 1.0,
             "location": "None"
         },
         "4050": {
-            "action": "investigate",
-            "confd": 0.9856377243995667,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "4080": {
             "action": "explore",
@@ -686,32 +686,32 @@
         },
         "4140": {
             "action": "explore",
-            "confd": 0.9999998807907104,
+            "confd": 1.0,
             "location": "None"
         },
         "4170": {
             "action": "explore",
-            "confd": 0.7509732246398926,
+            "confd": 1.0,
             "location": "None"
         },
         "4200": {
-            "action": "investigate",
-            "confd": 0.7841917276382446,
-            "location": "right"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "4230": {
             "action": "explore",
-            "confd": 0.9999995231628418,
+            "confd": 1.0,
             "location": "None"
         },
         "4260": {
             "action": "explore",
-            "confd": 0.9999982118606567,
+            "confd": 1.0,
             "location": "None"
         },
         "4290": {
             "action": "explore",
-            "confd": 0.9999998807907104,
+            "confd": 1.0,
             "location": "None"
         },
         "4320": {
@@ -740,329 +740,329 @@
             "location": "None"
         },
         "4470": {
-            "action": "investigate",
-            "confd": 0.6088825464248657,
-            "location": "right"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "4500": {
-            "action": "investigate",
-            "confd": 0.9337086081504822,
-            "location": "right"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "4530": {
-            "action": "investigate",
-            "confd": 0.8386296033859253,
-            "location": "right"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "4560": {
-            "action": "investigate",
-            "confd": 0.966320812702179,
-            "location": "right"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "4590": {
-            "action": "investigate",
-            "confd": 0.9991198182106018,
-            "location": "right"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "4620": {
-            "action": "investigate",
-            "confd": 0.9959720969200134,
-            "location": "right"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "4650": {
-            "action": "investigate",
-            "confd": 0.9929682612419128,
-            "location": "right"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "4680": {
-            "action": "investigate",
-            "confd": 0.9910004734992981,
-            "location": "right"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "4710": {
-            "action": "investigate",
-            "confd": 0.97260981798172,
-            "location": "right"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "4740": {
             "action": "investigate",
-            "confd": 0.9865908622741699,
-            "location": "right"
+            "confd": 0.9726647734642029,
+            "location": "left"
         },
         "4770": {
             "action": "investigate",
-            "confd": 0.9866859912872314,
-            "location": "right"
+            "confd": 0.9956308603286743,
+            "location": "left"
         },
         "4800": {
             "action": "investigate",
-            "confd": 0.9283174872398376,
-            "location": "right"
+            "confd": 0.9937007427215576,
+            "location": "left"
         },
         "4830": {
-            "action": "explore",
-            "confd": 1.0,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.991803765296936,
+            "location": "left"
         },
         "4860": {
-            "action": "explore",
-            "confd": 1.0,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9511038064956665,
+            "location": "left"
         },
         "4890": {
             "action": "investigate",
-            "confd": 0.9452595710754395,
+            "confd": 0.9875239133834839,
             "location": "left"
         },
         "4920": {
-            "action": "explore",
-            "confd": 0.9637998342514038,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.8846088647842407,
+            "location": "left"
         },
         "4950": {
-            "action": "explore",
-            "confd": 0.9999995231628418,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9947367310523987,
+            "location": "left"
         },
         "4980": {
             "action": "investigate",
-            "confd": 0.7649273872375488,
+            "confd": 0.9955487251281738,
             "location": "left"
         },
         "5010": {
-            "action": "explore",
-            "confd": 0.9999961853027344,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9958886504173279,
+            "location": "left"
         },
         "5040": {
-            "action": "explore",
-            "confd": 0.9997408986091614,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9930233955383301,
+            "location": "left"
         },
         "5070": {
-            "action": "explore",
-            "confd": 0.999920129776001,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9939842820167542,
+            "location": "left"
         },
         "5100": {
-            "action": "explore",
-            "confd": 0.9997941851615906,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9973010420799255,
+            "location": "left"
         },
         "5130": {
-            "action": "explore",
-            "confd": 0.9997689127922058,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9898590445518494,
+            "location": "left"
         },
         "5160": {
-            "action": "explore",
-            "confd": 0.9999986886978149,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9944362640380859,
+            "location": "left"
         },
         "5190": {
-            "action": "explore",
-            "confd": 0.9999990463256836,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9959608912467957,
+            "location": "left"
         },
         "5220": {
-            "action": "explore",
-            "confd": 0.9999983310699463,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.992381751537323,
+            "location": "left"
         },
         "5250": {
-            "action": "explore",
-            "confd": 0.9999995231628418,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9917505383491516,
+            "location": "left"
         },
         "5280": {
-            "action": "explore",
-            "confd": 0.9999990463256836,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9958165287971497,
+            "location": "left"
         },
         "5310": {
-            "action": "explore",
-            "confd": 0.9999997615814209,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9958128333091736,
+            "location": "left"
         },
         "5340": {
-            "action": "explore",
-            "confd": 0.9999997615814209,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.996322512626648,
+            "location": "left"
         },
         "5370": {
-            "action": "explore",
-            "confd": 0.999998927116394,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9940871000289917,
+            "location": "left"
         },
         "5400": {
-            "action": "explore",
-            "confd": 0.9999959468841553,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.82523113489151,
+            "location": "left"
         },
         "5430": {
             "action": "explore",
-            "confd": 1.0,
+            "confd": 0.9859504103660583,
             "location": "None"
         },
         "5460": {
             "action": "explore",
-            "confd": 1.0,
+            "confd": 0.9072351455688477,
             "location": "None"
         },
         "5490": {
-            "action": "explore",
-            "confd": 0.9999996423721313,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9956258535385132,
+            "location": "left"
         },
         "5520": {
-            "action": "explore",
-            "confd": 0.9252870678901672,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9975423812866211,
+            "location": "left"
         },
         "5550": {
             "action": "investigate",
-            "confd": 0.9927141070365906,
+            "confd": 0.9788361191749573,
             "location": "left"
         },
         "5580": {
             "action": "investigate",
-            "confd": 0.9966869950294495,
+            "confd": 0.9923141598701477,
             "location": "left"
         },
         "5610": {
             "action": "investigate",
-            "confd": 0.9970250725746155,
+            "confd": 0.9899702668190002,
             "location": "left"
         },
         "5640": {
             "action": "investigate",
-            "confd": 0.9988634586334229,
+            "confd": 0.9862604737281799,
             "location": "left"
         },
         "5670": {
             "action": "investigate",
-            "confd": 0.9982752799987793,
+            "confd": 0.9887799024581909,
             "location": "left"
         },
         "5700": {
             "action": "investigate",
-            "confd": 0.9873419404029846,
+            "confd": 0.9859927296638489,
             "location": "left"
         },
         "5730": {
             "action": "investigate",
-            "confd": 0.9939420819282532,
+            "confd": 0.9920624494552612,
             "location": "left"
         },
         "5760": {
             "action": "investigate",
-            "confd": 0.9973281621932983,
+            "confd": 0.9959214925765991,
             "location": "left"
         },
         "5790": {
             "action": "investigate",
-            "confd": 0.9943470358848572,
+            "confd": 0.9958904981613159,
             "location": "left"
         },
         "5820": {
             "action": "investigate",
-            "confd": 0.9936472773551941,
+            "confd": 0.9635115265846252,
             "location": "left"
         },
         "5850": {
             "action": "investigate",
-            "confd": 0.9986526966094971,
+            "confd": 0.9988287091255188,
             "location": "left"
         },
         "5880": {
             "action": "investigate",
-            "confd": 0.9943780303001404,
+            "confd": 0.9970216155052185,
             "location": "left"
         },
         "5910": {
             "action": "investigate",
-            "confd": 0.997073769569397,
+            "confd": 0.9976431727409363,
             "location": "left"
         },
         "5940": {
             "action": "investigate",
-            "confd": 0.996425449848175,
+            "confd": 0.9340671896934509,
             "location": "left"
         },
         "5970": {
             "action": "investigate",
-            "confd": 0.9958685636520386,
+            "confd": 0.9823379516601562,
             "location": "left"
         },
         "6000": {
             "action": "investigate",
-            "confd": 0.9975255131721497,
+            "confd": 0.9957138299942017,
             "location": "left"
         },
         "6030": {
             "action": "investigate",
-            "confd": 0.9984779953956604,
+            "confd": 0.9916819930076599,
             "location": "left"
         },
         "6060": {
             "action": "investigate",
-            "confd": 0.9961788654327393,
+            "confd": 0.9843562245368958,
             "location": "left"
         },
         "6090": {
             "action": "investigate",
-            "confd": 0.9960139989852905,
+            "confd": 0.991365909576416,
             "location": "left"
         },
         "6120": {
             "action": "investigate",
-            "confd": 0.9952017068862915,
+            "confd": 0.9863060712814331,
             "location": "left"
         },
         "6150": {
-            "action": "investigate",
-            "confd": 0.9973903298377991,
-            "location": "left"
+            "action": "explore",
+            "confd": 0.9999997615814209,
+            "location": "None"
         },
         "6180": {
             "action": "investigate",
-            "confd": 0.9914182424545288,
+            "confd": 0.9886806011199951,
             "location": "left"
         },
         "6210": {
-            "action": "explore",
-            "confd": 0.9991267323493958,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9863647222518921,
+            "location": "left"
         },
         "6240": {
+            "action": "investigate",
+            "confd": 0.9983660578727722,
+            "location": "left"
+        },
+        "6270": {
             "action": "explore",
             "confd": 1.0,
             "location": "None"
         },
-        "6270": {
-            "action": "explore",
-            "confd": 0.9999996423721313,
-            "location": "None"
-        },
         "6300": {
-            "action": "investigate",
-            "confd": 0.9321216940879822,
-            "location": "right"
+            "action": "explore",
+            "confd": 0.9999992847442627,
+            "location": "None"
         },
         "6330": {
             "action": "investigate",
-            "confd": 0.9752400517463684,
+            "confd": 0.791351854801178,
             "location": "left"
         },
         "6360": {
             "action": "investigate",
-            "confd": 0.9835509657859802,
-            "location": "right"
+            "confd": 0.7834454774856567,
+            "location": "left"
         },
         "6390": {
-            "action": "explore",
-            "confd": 0.9999419450759888,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9978097081184387,
+            "location": "left"
         },
         "6420": {
             "action": "explore",
@@ -1076,302 +1076,302 @@
         },
         "6480": {
             "action": "explore",
-            "confd": 0.9999963045120239,
+            "confd": 1.0,
             "location": "None"
         },
         "6510": {
-            "action": "investigate",
-            "confd": 0.9969257712364197,
-            "location": "right"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "6540": {
-            "action": "investigate",
-            "confd": 0.9976449608802795,
-            "location": "right"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "6570": {
-            "action": "investigate",
-            "confd": 0.9973652958869934,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "6600": {
-            "action": "investigate",
-            "confd": 0.998264729976654,
-            "location": "right"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "6630": {
-            "action": "investigate",
-            "confd": 0.998323380947113,
-            "location": "right"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "6660": {
-            "action": "investigate",
-            "confd": 0.9989750385284424,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "6690": {
-            "action": "investigate",
-            "confd": 0.998598039150238,
-            "location": "right"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "6720": {
-            "action": "investigate",
-            "confd": 0.9980149269104004,
-            "location": "right"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "6750": {
-            "action": "investigate",
-            "confd": 0.9966939687728882,
-            "location": "right"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "6780": {
-            "action": "investigate",
-            "confd": 0.9981075525283813,
-            "location": "right"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "6810": {
-            "action": "investigate",
-            "confd": 0.9941056966781616,
-            "location": "left"
+            "action": "explore",
+            "confd": 0.9999998807907104,
+            "location": "None"
         },
         "6840": {
-            "action": "investigate",
-            "confd": 0.9957939386367798,
-            "location": "left"
+            "action": "explore",
+            "confd": 0.9999997615814209,
+            "location": "None"
         },
         "6870": {
-            "action": "investigate",
-            "confd": 0.9942119717597961,
-            "location": "left"
+            "action": "explore",
+            "confd": 0.9999997615814209,
+            "location": "None"
         },
         "6900": {
-            "action": "investigate",
-            "confd": 0.9863801598548889,
-            "location": "left"
+            "action": "explore",
+            "confd": 0.9999998807907104,
+            "location": "None"
         },
         "6930": {
-            "action": "investigate",
-            "confd": 0.996408998966217,
-            "location": "right"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "6960": {
-            "action": "investigate",
-            "confd": 0.9957068562507629,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "6990": {
-            "action": "investigate",
-            "confd": 0.9985027313232422,
-            "location": "left"
+            "action": "explore",
+            "confd": 0.9999998807907104,
+            "location": "None"
         },
         "7020": {
-            "action": "investigate",
-            "confd": 0.9987727999687195,
-            "location": "left"
+            "action": "explore",
+            "confd": 0.9999998807907104,
+            "location": "None"
         },
         "7050": {
-            "action": "investigate",
-            "confd": 0.9933363199234009,
-            "location": "right"
+            "action": "explore",
+            "confd": 0.9273214340209961,
+            "location": "None"
         },
         "7080": {
             "action": "investigate",
-            "confd": 0.9990422129631042,
+            "confd": 0.9852573275566101,
             "location": "left"
         },
         "7110": {
             "action": "investigate",
-            "confd": 0.9991469383239746,
+            "confd": 0.9700292348861694,
             "location": "left"
         },
         "7140": {
             "action": "investigate",
-            "confd": 0.9990355968475342,
+            "confd": 0.9679163694381714,
             "location": "left"
         },
         "7170": {
             "action": "investigate",
-            "confd": 0.9963800311088562,
+            "confd": 0.9792252779006958,
             "location": "left"
         },
         "7200": {
             "action": "investigate",
-            "confd": 0.9984320998191833,
+            "confd": 0.9798032641410828,
             "location": "left"
         },
         "7230": {
-            "action": "investigate",
-            "confd": 0.9986724853515625,
-            "location": "left"
+            "action": "explore",
+            "confd": 0.9990835189819336,
+            "location": "None"
         },
         "7260": {
-            "action": "investigate",
-            "confd": 0.9989104270935059,
-            "location": "left"
+            "action": "explore",
+            "confd": 0.5306842923164368,
+            "location": "None"
         },
         "7290": {
-            "action": "investigate",
-            "confd": 0.9984925985336304,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "7320": {
-            "action": "investigate",
-            "confd": 0.9964612126350403,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "7350": {
-            "action": "investigate",
-            "confd": 0.9966956377029419,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "7380": {
             "action": "investigate",
-            "confd": 0.9971511960029602,
+            "confd": 0.990925669670105,
             "location": "left"
         },
         "7410": {
             "action": "investigate",
-            "confd": 0.9985608458518982,
+            "confd": 0.9463338255882263,
             "location": "left"
         },
         "7440": {
             "action": "explore",
-            "confd": 0.8748266696929932,
+            "confd": 1.0,
             "location": "None"
         },
         "7470": {
             "action": "explore",
-            "confd": 0.9999896287918091,
+            "confd": 1.0,
             "location": "None"
         },
         "7500": {
-            "action": "investigate",
-            "confd": 0.9087952375411987,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "7530": {
-            "action": "investigate",
-            "confd": 0.9817573428153992,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "7560": {
-            "action": "investigate",
-            "confd": 0.9919403195381165,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "7590": {
-            "action": "investigate",
-            "confd": 0.9859533905982971,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "7620": {
-            "action": "investigate",
-            "confd": 0.9856356382369995,
-            "location": "left"
+            "action": "explore",
+            "confd": 0.999998927116394,
+            "location": "None"
         },
         "7650": {
-            "action": "investigate",
-            "confd": 0.9785537719726562,
-            "location": "left"
+            "action": "explore",
+            "confd": 0.9999992847442627,
+            "location": "None"
         },
         "7680": {
-            "action": "investigate",
-            "confd": 0.9874352216720581,
-            "location": "left"
+            "action": "explore",
+            "confd": 0.9999992847442627,
+            "location": "None"
         },
         "7710": {
-            "action": "investigate",
-            "confd": 0.9865769147872925,
-            "location": "left"
+            "action": "explore",
+            "confd": 0.999998927116394,
+            "location": "None"
         },
         "7740": {
             "action": "explore",
-            "confd": 0.9988240599632263,
+            "confd": 0.9999990463256836,
             "location": "None"
         },
         "7770": {
             "action": "explore",
-            "confd": 1.0,
+            "confd": 0.9999984502792358,
             "location": "None"
         },
         "7800": {
             "action": "explore",
-            "confd": 1.0,
+            "confd": 0.9999990463256836,
             "location": "None"
         },
         "7830": {
             "action": "explore",
-            "confd": 1.0,
+            "confd": 0.9999995231628418,
             "location": "None"
         },
         "7860": {
             "action": "explore",
-            "confd": 1.0,
+            "confd": 0.9999990463256836,
             "location": "None"
         },
         "7890": {
             "action": "explore",
-            "confd": 0.9971081614494324,
+            "confd": 0.9999992847442627,
             "location": "None"
         },
         "7920": {
-            "action": "investigate",
-            "confd": 0.9999033212661743,
-            "location": "right"
+            "action": "explore",
+            "confd": 0.9999994039535522,
+            "location": "None"
         },
         "7950": {
-            "action": "investigate",
-            "confd": 0.9998540878295898,
-            "location": "right"
+            "action": "explore",
+            "confd": 0.9999942779541016,
+            "location": "None"
         },
         "7980": {
-            "action": "investigate",
-            "confd": 0.999284565448761,
-            "location": "right"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "8010": {
             "action": "investigate",
-            "confd": 0.9998481273651123,
-            "location": "right"
+            "confd": 0.9255331754684448,
+            "location": "left"
         },
         "8040": {
             "action": "investigate",
-            "confd": 0.9994854927062988,
-            "location": "right"
+            "confd": 0.9472782015800476,
+            "location": "left"
         },
         "8070": {
             "action": "investigate",
-            "confd": 0.9983456134796143,
-            "location": "right"
+            "confd": 0.9349583387374878,
+            "location": "left"
         },
         "8100": {
-            "action": "investigate",
-            "confd": 0.9967378973960876,
-            "location": "right"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "8130": {
-            "action": "investigate",
-            "confd": 0.9973624348640442,
-            "location": "right"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "8160": {
-            "action": "investigate",
-            "confd": 0.9986909031867981,
-            "location": "right"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "8190": {
-            "action": "investigate",
-            "confd": 0.9985097050666809,
-            "location": "right"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "8220": {
-            "action": "investigate",
-            "confd": 0.984155535697937,
-            "location": "right"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "8250": {
             "action": "explore",
-            "confd": 0.9999985694885254,
+            "confd": 1.0,
             "location": "None"
         },
         "8280": {
@@ -1386,168 +1386,168 @@
         },
         "8340": {
             "action": "explore",
-            "confd": 0.9217575788497925,
+            "confd": 1.0,
             "location": "None"
         },
         "8370": {
-            "action": "investigate",
-            "confd": 0.9998382329940796,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "8400": {
-            "action": "investigate",
-            "confd": 0.9998881816864014,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "8430": {
-            "action": "investigate",
-            "confd": 0.9998534917831421,
-            "location": "left"
+            "action": "explore",
+            "confd": 1.0,
+            "location": "None"
         },
         "8460": {
-            "action": "investigate",
-            "confd": 0.9992819428443909,
-            "location": "left"
+            "action": "explore",
+            "confd": 0.6077545881271362,
+            "location": "None"
         },
         "8490": {
             "action": "investigate",
-            "confd": 0.9990124702453613,
-            "location": "left"
+            "confd": 0.9977884292602539,
+            "location": "right"
         },
         "8520": {
             "action": "investigate",
-            "confd": 0.9992889165878296,
-            "location": "left"
+            "confd": 0.9982163310050964,
+            "location": "right"
         },
         "8550": {
             "action": "investigate",
-            "confd": 0.9979817867279053,
-            "location": "left"
+            "confd": 0.9988983869552612,
+            "location": "right"
         },
         "8580": {
             "action": "investigate",
-            "confd": 0.9991317391395569,
-            "location": "left"
+            "confd": 0.9978199005126953,
+            "location": "right"
         },
         "8610": {
-            "action": "explore",
-            "confd": 0.875667929649353,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9984283447265625,
+            "location": "right"
         },
         "8640": {
             "action": "investigate",
-            "confd": 0.9824091196060181,
-            "location": "left"
+            "confd": 0.998522937297821,
+            "location": "right"
         },
         "8670": {
             "action": "investigate",
-            "confd": 0.9984531402587891,
-            "location": "left"
+            "confd": 0.9978551268577576,
+            "location": "right"
         },
         "8700": {
             "action": "investigate",
-            "confd": 0.9878113865852356,
-            "location": "left"
+            "confd": 0.99712735414505,
+            "location": "right"
         },
         "8730": {
             "action": "investigate",
-            "confd": 0.5201077461242676,
-            "location": "left"
+            "confd": 0.9983184337615967,
+            "location": "right"
         },
         "8760": {
-            "action": "explore",
-            "confd": 1.0,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9979206919670105,
+            "location": "right"
         },
         "8790": {
-            "action": "explore",
-            "confd": 1.0,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9976325035095215,
+            "location": "right"
         },
         "8820": {
-            "action": "explore",
-            "confd": 1.0,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9979369640350342,
+            "location": "right"
         },
         "8850": {
-            "action": "explore",
-            "confd": 0.9999994039535522,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9983602166175842,
+            "location": "right"
         },
         "8880": {
-            "action": "explore",
-            "confd": 0.9999998807907104,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9981510043144226,
+            "location": "right"
         },
         "8910": {
-            "action": "explore",
-            "confd": 0.99998939037323,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9991169571876526,
+            "location": "right"
         },
         "8940": {
-            "action": "explore",
-            "confd": 0.9999914169311523,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9987035989761353,
+            "location": "right"
         },
         "8970": {
-            "action": "explore",
-            "confd": 0.9999969005584717,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9992145299911499,
+            "location": "right"
         },
         "9000": {
-            "action": "explore",
-            "confd": 0.9999988079071045,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9981649518013,
+            "location": "right"
         },
         "9030": {
-            "action": "explore",
-            "confd": 0.9935558438301086,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9963181018829346,
+            "location": "right"
         },
         "9060": {
-            "action": "explore",
-            "confd": 1.0,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.5649413466453552,
+            "location": "right"
         },
         "9090": {
-            "action": "explore",
-            "confd": 0.9999971389770508,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9962530136108398,
+            "location": "right"
         },
         "9120": {
-            "action": "explore",
-            "confd": 0.9999998807907104,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9985577464103699,
+            "location": "right"
         },
         "9150": {
-            "action": "explore",
-            "confd": 0.999998927116394,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9989945292472839,
+            "location": "right"
         },
         "9180": {
-            "action": "explore",
-            "confd": 0.9999978542327881,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9985834360122681,
+            "location": "right"
         },
         "9210": {
-            "action": "explore",
-            "confd": 1.0,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9984044432640076,
+            "location": "right"
         },
         "9240": {
-            "action": "explore",
-            "confd": 1.0,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9985795021057129,
+            "location": "right"
         },
         "9270": {
-            "action": "explore",
-            "confd": 1.0,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9978134632110596,
+            "location": "right"
         },
         "9300": {
-            "action": "explore",
-            "confd": 1.0,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.971668004989624,
+            "location": "right"
         },
         "9330": {
             "action": "explore",
@@ -1555,124 +1555,124 @@
             "location": "None"
         },
         "9360": {
-            "action": "explore",
-            "confd": 1.0,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9467588067054749,
+            "location": "right"
         },
         "9390": {
-            "action": "explore",
-            "confd": 0.9999998807907104,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9994021654129028,
+            "location": "left"
         },
         "9420": {
-            "action": "explore",
-            "confd": 0.9999998807907104,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.999414324760437,
+            "location": "left"
         },
         "9450": {
+            "action": "investigate",
+            "confd": 0.9995859265327454,
+            "location": "left"
+        },
+        "9480": {
+            "action": "investigate",
+            "confd": 0.9997137188911438,
+            "location": "left"
+        },
+        "9510": {
+            "action": "investigate",
+            "confd": 0.9997507929801941,
+            "location": "left"
+        },
+        "9540": {
+            "action": "investigate",
+            "confd": 0.999703586101532,
+            "location": "left"
+        },
+        "9570": {
+            "action": "investigate",
+            "confd": 0.9996064305305481,
+            "location": "left"
+        },
+        "9600": {
+            "action": "investigate",
+            "confd": 0.999650239944458,
+            "location": "left"
+        },
+        "9630": {
+            "action": "investigate",
+            "confd": 0.9996020197868347,
+            "location": "left"
+        },
+        "9660": {
+            "action": "investigate",
+            "confd": 0.9976304769515991,
+            "location": "left"
+        },
+        "9690": {
+            "action": "investigate",
+            "confd": 0.9946383833885193,
+            "location": "left"
+        },
+        "9720": {
+            "action": "investigate",
+            "confd": 0.9944453835487366,
+            "location": "left"
+        },
+        "9750": {
+            "action": "investigate",
+            "confd": 0.9975137710571289,
+            "location": "left"
+        },
+        "9780": {
+            "action": "investigate",
+            "confd": 0.9989694356918335,
+            "location": "left"
+        },
+        "9810": {
+            "action": "investigate",
+            "confd": 0.9971573352813721,
+            "location": "left"
+        },
+        "9840": {
             "action": "explore",
             "confd": 0.9999984502792358,
             "location": "None"
         },
-        "9480": {
-            "action": "explore",
-            "confd": 0.9999996423721313,
-            "location": "None"
-        },
-        "9510": {
-            "action": "explore",
-            "confd": 0.9999959468841553,
-            "location": "None"
-        },
-        "9540": {
-            "action": "explore",
-            "confd": 0.9999986886978149,
-            "location": "None"
-        },
-        "9570": {
-            "action": "explore",
-            "confd": 0.9999998807907104,
-            "location": "None"
-        },
-        "9600": {
-            "action": "explore",
-            "confd": 1.0,
-            "location": "None"
-        },
-        "9630": {
-            "action": "explore",
-            "confd": 0.9999996423721313,
-            "location": "None"
-        },
-        "9660": {
-            "action": "explore",
-            "confd": 0.9999998807907104,
-            "location": "None"
-        },
-        "9690": {
-            "action": "explore",
-            "confd": 0.9999997615814209,
-            "location": "None"
-        },
-        "9720": {
-            "action": "explore",
-            "confd": 0.9999996423721313,
-            "location": "None"
-        },
-        "9750": {
-            "action": "explore",
-            "confd": 0.9999998807907104,
-            "location": "None"
-        },
-        "9780": {
-            "action": "explore",
-            "confd": 1.0,
-            "location": "None"
-        },
-        "9810": {
-            "action": "explore",
-            "confd": 1.0,
-            "location": "None"
-        },
-        "9840": {
-            "action": "explore",
-            "confd": 1.0,
-            "location": "None"
-        },
         "9870": {
             "action": "explore",
-            "confd": 1.0,
+            "confd": 0.9940289258956909,
             "location": "None"
         },
         "9900": {
             "action": "explore",
-            "confd": 1.0,
+            "confd": 0.998596727848053,
             "location": "None"
         },
         "9930": {
             "action": "explore",
-            "confd": 1.0,
+            "confd": 0.9987325072288513,
             "location": "None"
         },
         "9960": {
             "action": "explore",
-            "confd": 1.0,
+            "confd": 0.7507327198982239,
             "location": "None"
         },
         "9990": {
             "action": "explore",
-            "confd": 1.0,
+            "confd": 0.7326788306236267,
             "location": "None"
         },
         "10020": {
             "action": "explore",
-            "confd": 1.0,
+            "confd": 0.6297270059585571,
             "location": "None"
         },
         "10050": {
-            "action": "explore",
-            "confd": 1.0,
-            "location": "None"
+            "action": "investigate",
+            "confd": 0.9747691750526428,
+            "location": "left"
         },
         "10080": {
             "action": "explore",
@@ -1685,36 +1685,6 @@
             "location": "None"
         },
         "10140": {
-            "action": "explore",
-            "confd": 1.0,
-            "location": "None"
-        },
-        "10170": {
-            "action": "explore",
-            "confd": 1.0,
-            "location": "None"
-        },
-        "10200": {
-            "action": "explore",
-            "confd": 1.0,
-            "location": "None"
-        },
-        "10230": {
-            "action": "explore",
-            "confd": 1.0,
-            "location": "None"
-        },
-        "10260": {
-            "action": "explore",
-            "confd": 1.0,
-            "location": "None"
-        },
-        "10290": {
-            "action": "explore",
-            "confd": 1.0,
-            "location": "None"
-        },
-        "10320": {
             "action": "explore",
             "confd": 1.0,
             "location": "None"

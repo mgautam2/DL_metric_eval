@@ -24,7 +24,7 @@ function subFragmentation(MP_to_GT, GT_to_MP, MPList, GTList) {
       }
     }
   })
-  console.log("Total", totalFrames)
+  // console.log("Total", totalFrames)
   return totalFrames;
 }
 

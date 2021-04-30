@@ -8,7 +8,7 @@ function insertion(MP_to_GT, GT_to_MP, MPList, GTList) {
       totalFrames += MPList[index].getFrames();
     }
   })
-  console.log(totalFrames)
+  // console.log(totalFrames)
   return totalFrames;
 }
 

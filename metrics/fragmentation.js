@@ -15,7 +15,7 @@ function fragmentation(MP_to_GT, GT_to_MP, MPList, GTList) {
       let coverage = 0;
       const type = checkListType(list, MPList, currGT.getAction());
   
-      if (type === 'sameFrag') {
+      if (type !== 'error') {
         const listFrames = list.reduce((acc, eventIndex) => {
           acc += currGT.getOverlap(MPList[eventIndex]);
           return acc;
@@ -24,7 +24,7 @@ function fragmentation(MP_to_GT, GT_to_MP, MPList, GTList) {
       }
     }
   })
-  console.log("Total", totalFrames)
+  // console.log("Total", totalFrames)
   return totalFrames;
 }
 
