@@ -8,11 +8,14 @@ const {
 } 
 = require('./utils/CsvToJson.js');
 const { 
+  hitsMisses,
   deletion, 
   insertion,
   underfill,
   overfill,
-  fragmentation
+  fragmentation,
+  subFragmentation,
+  merge
  } 
 = require('./metrics');
 const { createMP_to_GT, createGT_to_MP } = require('./utils/mapCreation.js');
@@ -34,11 +37,15 @@ async function main() {
   GT_to_MP = createGT_to_MP(GTList, MPList);
   
   // Evalution Metrics
+  hitsMisses(GTList, MPList);
   // deletion(MP_to_GT, GT_to_MP, MPList, GTList);
   // insertion(MP_to_GT, GT_to_MP, MPList, GTList);
   // underfill(MP_to_GT, GT_to_MP, MPList, GTList);
   // overfill(MP_to_GT, GT_to_MP, MPList, GTList);
-  fragmentation(MP_to_GT, GT_to_MP, MPList, GTList);
+  // fragmentation(MP_to_GT, GT_to_MP, MPList, GTList);
+  // subFragmentation(MP_to_GT, GT_to_MP, MPList, GTList);
+  // merge(MP_to_GT, GT_to_MP, MPList, GTList);
+
 }
 
 main();

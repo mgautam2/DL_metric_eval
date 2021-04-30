@@ -1,7 +1,7 @@
 const { checkListType } = require('../utils/helperFunc');
 
 
-function fragmentation(MP_to_GT, GT_to_MP, MPList, GTList) {
+function subFragmentation(MP_to_GT, GT_to_MP, MPList, GTList) {
   let totalFrames = 0;  
   
   GT_to_MP.forEach((list, index) => {
@@ -15,7 +15,7 @@ function fragmentation(MP_to_GT, GT_to_MP, MPList, GTList) {
       let coverage = 0;
       const type = checkListType(list, MPList, currGT.getAction());
   
-      if (type === 'sameFrag') {
+      if (type === 'subFrag') { // CHnahe here
         const listFrames = list.reduce((acc, eventIndex) => {
           acc += currGT.getOverlap(MPList[eventIndex]);
           return acc;
@@ -28,7 +28,7 @@ function fragmentation(MP_to_GT, GT_to_MP, MPList, GTList) {
   return totalFrames;
 }
 
-module.exports = fragmentation;
+module.exports = subFragmentation;
 
 
 // GT -> list > 1

@@ -9,15 +9,17 @@ class event {
     this.action = action;
   }
   
+  getAction() {
+    return this.action;
+  }
+  
   getFrames() {
     return (this.end - this.start);
   }
   
   getOverlap(event) {
-    console.log(this)
-    console.log(event)
     const overlapType = checkIntervalOverlap(this, event);
-    console.log(overlapType);
+    
     if (overlapType === 'underfill') {
       return event.getFrames();
     }
