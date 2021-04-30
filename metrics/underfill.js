@@ -7,10 +7,10 @@ function underfill(MP_to_GT, GT_to_MP, MPList, GTList) {
     
     if (list.length === 1) {
       const currMP = MPList[list[0]];
-      const startDiff = currGT.start - currMP.start;
+      const startDiff = currMP.start - currGT.start;
       const endDiff = currGT.end - currMP.end;
       
-      if (startDiff < sigma && startDiff < 0 &&  endDiff < sigma && endDiff > 0 ) {
+      if (startDiff > sigma && startDiff > 0  &&  endDiff > sigma && endDiff > 0 ) { // refine conditions
         console.log("underfill at ", index, " in GT");
       }
     }

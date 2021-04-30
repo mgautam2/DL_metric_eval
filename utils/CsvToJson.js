@@ -84,9 +84,23 @@ function createMPList(MPCsv) {
   return results;
 }  
 
+function processGTList(List) {
+  
+  for (let i = 0; i < List.length; i++) {
+    if (List[i].action === 'Left Object')
+      List[i].action = 'left';
+    else if (List[i].action === 'Right Object')
+      List[i].action = 'right';
+  }
+  return List;
+}
+
+
+
 module.exports = {
   loadCSV,
   convertJsonToCsv,
   createGTList,
-  createMPList
+  createMPList,
+  processGTList
 };

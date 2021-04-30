@@ -6,6 +6,10 @@ class event {
     this.end = end;
     this.action = action;
   }
+  
+  midpoint() {
+    return (this.end + this.start) / 2;
+  }
 
 }
 

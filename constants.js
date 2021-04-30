@@ -1,4 +1,4 @@
-const sigma = 50; // threshold
+const sigma = 10; // threshold
 
 module.exports = {
   sigma
