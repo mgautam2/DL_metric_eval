@@ -1,38 +1,5 @@
-
-const { sigma } = require('../constants');
-
-// event { start: 3000, end: 3390, action: 'left' },
-// 
-// 
-// event { start: 3003, end: 3131, action: 'left' },
-// event { start: 3154, end: 3400, action: 'left' }
-
-function checkIntervalOverlap(I1, I2) {
-   console.log("\n\n")
-   console.log(I1)
-   console.log(I2)
-  if(I1.start > I2.start && I1.end < I2.end) {
-    console.log('overfill interval')
-    return 'overfill';
-  }  
-  else if(I1.start < I2.start && I1.end > I2.end) {
-    console.log('underfill interval')
-    return 'underfill';
-  }
-  else if ( I1.start > I2.start && I1.start < I2.end) { 
-    console.log('left interval')  
-    return 'left';
-  }
-  else if ( I1.end > I2.start && I1.end < I2.end ) {
-    console.log('right Intervalk')
-    return 'right';
-  }
-  
-  else {
-    console.log('noOverlap')
-    return 'noOverlap'
-  }
-}
+const { sigma } = require('./constants');
+const { checkIntervalOverlap } = require('./helperFunc');
 
 
 function createMP_to_GT(MPList, GTList) {
@@ -59,7 +26,6 @@ function createMP_to_GT(MPList, GTList) {
       }
       
       if(overlapResult === 'right' || overlapResult === 'overfill') {
-        console.log("Not incremeninging")
         break;
       }
       else {
@@ -75,7 +41,6 @@ function createMP_to_GT(MPList, GTList) {
 }
 
 function createGT_to_MP(GTList, MPList) {
-  console.log("\n\n")
   let map = new Map();
   let i = 0;
   let j = 0;
@@ -99,7 +64,6 @@ function createGT_to_MP(GTList, MPList) {
       }
       
       if(overlapResult === 'right' || overlapResult === 'overfill') {
-        console.log("Not incremeninging")
         break;
       }
       else {
